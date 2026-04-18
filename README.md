@@ -36,8 +36,8 @@ The application interface is served via a REST API that handles JSON inputs, run
 The AI models were evaluated on rigorous metrics to ensure the reliability of the Life Cycle Assessment estimations
 * **Evaluation Metrics Used:** Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE)
 * **Combined Overall Accuracy:** **85.97%**
-    * *MAE-based Accuracy:* 88.98%255
-    * *R²-based Accuracy:* 82.95%256
+    * *MAE-based Accuracy:* 88.98%
+    * *R²-based Accuracy:* 82.95%
 
 ---
 
